@@ -17,5 +17,6 @@
     }
   ],
   "name": "PWA Aplication",
-  "theme_color": "orange"
+  "theme_color": "orange",
+  "start_url": "/"
 }
